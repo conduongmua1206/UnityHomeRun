@@ -255,6 +255,12 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+     <Compile Include="Assets\Resources\Scripts\Controller\BallController.cs" />
+     <Compile Include="Assets\Resources\Scripts\Controller\BallState.cs" />
+     <Compile Include="Assets\Resources\Scripts\Controller\Data.cs" />
+     <Compile Include="Assets\Resources\Scripts\Controller\GameController.cs" />
+     <Compile Include="Assets\Resources\Scripts\Controller\Item\BaseItem.cs" />
+     <Compile Include="Assets\Resources\Scripts\Controller\button.cs" />
      <None Include="Assets\NGUI\Resources\Shaders\Depth.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
